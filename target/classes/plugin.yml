@@ -1,0 +1,15 @@
+name: Banliste
+version: 1.0.0
+main: dk.mineconed.banliste.Banliste
+author: Mineconed
+api-version: 1.13
+
+commands:
+  banliste:
+    aliases: [banlist, bans]
+
+permissions:
+  banliste.se:
+    default: op
+  banliste.unban:
+    default: op

@@ -1,0 +1,12 @@
+# ═══════════════════════════════════════════
+#   Banlist  •  Made by Mineconed
+# ═══════════════════════════════════════════
+
+# Language: "en" or "da" (messages_en.yml / messages_da.yml). Make your own messages_xx.yml for more
+language: "en"
+
+# Command run when you unban in the menu ({navn} = the player's name)
+# Empty ("") = the server's own unban. Example for Essentials: "essentials:unban {navn}"
+unban_kommando: ""
+
+dato_format: "dd/MM/yyyy HH:mm"
